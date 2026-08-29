@@ -158,7 +158,7 @@
     font-family: 'Georgia', serif;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
     line-height: 1.4;
-  ">💡 "Think big but start Small"</p>
+  ">"Think big but start Small"</p>
   
   <div style="
     margin-top: 15px;
@@ -179,12 +179,3 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00C3FF&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=i2Ashkan&color=FFFFFF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
