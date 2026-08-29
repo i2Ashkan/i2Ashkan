@@ -1,12 +1,4 @@
-<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,50:7928CA,100:FF0080&height=250&section=header&text=Ashkan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Web3%20Developer&descAlignY=60&descSize=22" />
-</p>
 
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+scalable+web+apps+%26+blockchain+solutions;%E2%9A%A1+Passionate+about+clean+code+%26+modern+tech;%F0%9F%A7%A0+Currently+exploring+AI+%26+Machine+Learning;%F0%9F%92%A1+Turning+ideas+into+reality+with+code" alt="Typing SVG" />
-</p>
 
 <br/>
 
@@ -104,7 +96,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>🧠 Currently Learning</b></summary>
   <br/>
   <p align="left">
@@ -139,18 +131,3 @@
 
 <br/>
 
-<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00C3FF&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=i2Ashkan&color=00C3FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
