@@ -5,17 +5,17 @@
 
 <!-- ═══════════════════════ LUXURY TYPING ANIMATION ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Why+not+you+%3F" alt="Why not you?" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Why+not+you+%3F&fontAlign=50&fontAlignY=30" alt="Why not you?" />
 </p>
 
 <br/>
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="60%">
       <p>
         👋 Hi, I'm <strong>Ashkan</strong> — a passionate <strong>Full-Stack</strong> & <strong>Blockchain Developer</strong> who loves crafting elegant solutions for complex problems.<br/><br/>
         🌐 I build modern web applications using <strong>Node.js</strong>, <strong>Python</strong>, and <strong>React/Tailwind</strong>.<br/>
@@ -24,8 +24,8 @@
         🎯 My goal: Build meaningful products that make a difference.
       </p>
     </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="coding"/>
     </td>
   </tr>
 </table>
@@ -141,12 +141,45 @@
 <br/>
 <br/>
 
-<!-- ═══════════════════════ CUSTOM QUOTE ═══════════════════════ -->
+<!-- ═══════════════════════ LUXURY QUOTE ═══════════════════════ -->
 <div align="center">
-  <table><tr><td>
-    <h2 style="margin: 0; color: #ffffff; font-style: italic; font-family: 'JetBrains Mono', monospace;">💡 "Think big but start Small"</h2>
-    <p style="margin: 8px 0 0 0; color: #7928CA; font-size: 16px; font-weight: bold;">— Ashkan</p>
-  </td></tr></table>
+  
+<div style="
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 30px 50px;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(102, 126, 234, 0.4);
+  max-width: 600px;
+  margin: 0 auto;
+  border: 2px solid rgba(255,255,255,0.1);
+">
+  <p style="
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+    color: #ffffff;
+    font-style: italic;
+    font-family: 'Georgia', serif;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    line-height: 1.4;
+  ">💡 "Think big but start Small"</p>
+  
+  <div style="
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 2px solid rgba(255,255,255,0.3);
+  ">
+    <p style="
+      margin: 0;
+      font-size: 18px;
+      color: #f0f0f0;
+      font-weight: 600;
+      font-family: 'JetBrains Mono', monospace;
+      letter-spacing: 2px;
+    ">— Ashkan</p>
+  </div>
+</div>
+
 </div>
 
 <br/>
