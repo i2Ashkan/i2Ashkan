@@ -117,39 +117,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i2Ashkan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C3FF&icon_color=00C3FF&ring_color=00C3FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2Ashkan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C3FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i2Ashkan&theme=react&hide_border=true&bg_color=0d1117&color=00C3FF&line=7928CA&point=FF0080&area=true&area_color=7928CA" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i2Ashkan&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ STREAK ═══════════════════════ -->
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i2Ashkan&theme=radical&hide_border=true&background=0d1117&stroke=00C3FF&ring=7928CA&fire=FF0080&currStreakLabel=00C3FF" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 ## 📫 Let's Connect
 
 <p align="center">
@@ -159,10 +126,10 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HERE">
+  <a href="https://twitter.com/i2ashkan">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_HERE">
+  <a href="https://t.me/i2ashkan">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/i2Ashkan">
