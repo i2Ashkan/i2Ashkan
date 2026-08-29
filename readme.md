@@ -1,71 +1,189 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ashkan;Full-Stack+%26+Web3+Developer;Building+the+Future+with+Code+%26+Blockchain;Currently+Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
-</div>
+<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,50:7928CA,100:FF0080&height=250&section=header&text=Ashkan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Web3%20Developer&descAlignY=60&descSize=22" />
+</p>
+
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+scalable+web+apps+%26+blockchain+solutions;%E2%9A%A1+Passionate+about+clean+code+%26+modern+tech;%F0%9F%A7%A0+Currently+exploring+AI+%26+Machine+Learning;%F0%9F%92%A1+Turning+ideas+into+reality+with+code" alt="Typing SVG" />
+</p>
 
 <br/>
 
-### 🧑‍💻 About Me
-I am **Ashkan**, a passionate Full-Stack and Blockchain Developer with a strong foundation in building scalable web applications and decentralized systems. I love turning complex problems into elegant, efficient, and user-friendly solutions. Currently, I am expanding my horizons into the world of Artificial Intelligence and Machine Learning.
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## 🧑‍💻 About Me
+
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+        👋 Hi, I'm <strong>Ashkan</strong> — a passionate <strong>Full-Stack</strong> & <strong>Blockchain Developer</strong> who loves crafting elegant solutions for complex problems.<br/><br/>
+        🌐 I build modern web applications using <strong>Node.js</strong>, <strong>Python</strong>, and <strong>React/Tailwind</strong>.<br/>
+        🔗 I design and deploy <strong>Smart Contracts</strong> across multiple chains (Ethereum, BNB, Polygon, TON).<br/>
+        🧠 Currently diving deep into <strong>AI, Machine Learning & Deep Learning</strong>.<br/>
+        🎯 My goal: Build meaningful products that make a difference.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-### 🚀 Tech Stack & Skills
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🚀 Tech Stack
 
-**💻 Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<details open>
+  <summary><b>💻 Languages</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  </p>
+</details>
 
-**🎨 Frontend:**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details open>
+  <summary><b>🎨 Frontend</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  </p>
+</details>
 
-**⚙️ Backend & APIs:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<details open>
+  <summary><b>⚙️ Backend & APIs</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  </p>
+</details>
 
-**🗄️ Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<details open>
+  <summary><b>🗄️ Databases</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </p>
+</details>
 
-**🔗 Blockchain & Web3:**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-*Smart Contracts | DeFi | dApps Architecture*
+<details open>
+  <summary><b>🔗 Blockchain & Web3</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+    <img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+    <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
+  </p>
+  <p><em>✨ Smart Contracts • DeFi • dApps Architecture • Multi-chain Development</em></p>
+</details>
 
-**🛠️ Tools & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<details open>
+  <summary><b>🛠️ Tools & DevOps</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </p>
+</details>
 
-**🧠 Currently Learning & Exploring:**
-![Artificial Intelligence](https://img.shields.io/badge/AI-00A6ED?style=for-the-badge&logo=artificialintelligence&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
+<details>
+  <summary><b>🧠 Currently Learning</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/AI-00A6ED?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </p>
+</details>
 
 <br/>
 
-### 📊 GitHub Stats
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i2Ashkan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C3FF&icon_color=00C3FF" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i2Ashkan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C3FF&icon_color=00C3FF&ring_color=00C3FF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2Ashkan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C3FF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=i2Ashkan&theme=radical&hide_border=true&background=0d1117&stroke=00C3FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i2Ashkan&theme=react&hide_border=true&bg_color=0d1117&color=00C3FF&line=7928CA&point=FF0080&area=true&area_color=7928CA" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=i2Ashkan&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════ STREAK ═══════════════════════ -->
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i2Ashkan&theme=radical&hide_border=true&background=0d1117&stroke=00C3FF&ring=7928CA&fire=FF0080&currStreakLabel=00C3FF" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_HERE">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_HERE">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/i2Ashkan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <br/>
 
-### 📫 Let's Connect!
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00C3FF&height=120&section=footer"/>
+</p>
 
-
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=i2Ashkan&color=00C3FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
