@@ -1,4 +1,12 @@
+<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,50:7928CA,100:FF0080&height=250&section=header&text=Ashkan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Web3%20Developer&descAlignY=60&descSize=22" />
+</p>
 
+<!-- ═══════════════════════ LUXURY TYPING ANIMATION ═══════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Why+not+you+%3F" alt="Why not you?" />
+</p>
 
 <br/>
 
@@ -109,6 +117,7 @@
 
 <br/>
 
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 ## 📫 Let's Connect
 
 <p align="center">
@@ -130,4 +139,23 @@
 </p>
 
 <br/>
+<br/>
 
+<!-- ═══════════════════════ CUSTOM QUOTE ═══════════════════════ -->
+<div align="center">
+  <table><tr><td>
+    <h2 style="margin: 0; color: #ffffff; font-style: italic; font-family: 'JetBrains Mono', monospace;">💡 "Think big but start Small"</h2>
+    <p style="margin: 8px 0 0 0; color: #7928CA; font-size: 16px; font-weight: bold;">— Ashkan</p>
+  </td></tr></table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00C3FF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=i2Ashkan&color=FFFFFF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
