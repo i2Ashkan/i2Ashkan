@@ -1,7 +1,3 @@
-<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,50:7928CA,100:FF0080&height=250&section=header&text=Ashkan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Web3%20Developer&descAlignY=60&descSize=22" />
-</p>
 
 <!-- ═══════════════════════ LUXURY TYPING ANIMATION ═══════════════════════ -->
 <p align="center">
