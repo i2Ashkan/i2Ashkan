@@ -1,5 +1,4 @@
-
-<!-- ═══════════════════════ LUXURY TYPING ANIMATION ═══════════════════════ -->
+<!-- ══════════════════════ LUXURY TYPING ANIMATION ═══════════════════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Why+not+you+%3F&fontAlign=50&fontAlignY=30" alt="Why not you?" />
 </p>
@@ -21,7 +20,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="coding"/>
+      <img src="https://media.giphy.com/media/WRPIP8lwf90Yk3sYTM/giphy.gif" width="100%" alt="coding"/>
     </td>
   </tr>
 </table>
@@ -29,7 +28,7 @@
 <br/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## 🚀 Tech Stack
+##  Tech Stack
 
 <details open>
   <summary><b>💻 Languages</b></summary>
